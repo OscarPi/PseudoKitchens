@@ -1,0 +1,11 @@
+clip @ git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
+lightning==2.5.2
+numpy==1.26.4
+OpenEXR==3.3.5
+pillow==11.3.0
+pytorch-lightning==2.5.2
+scikit-learn==1.7.1
+torch==2.8.0
+torchvision==0.23.0
+tqdm==4.67.1
+bpy==4.5.1
